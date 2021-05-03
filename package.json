@@ -1,0 +1,11 @@
+{
+  "name": "lorem-ipsum",
+  "version": "1.0.0",
+  "description": "Demo project for Cachito Yarn support",
+  "main": "index.js",
+  "author": "Adam Cmiel <acmiel@redhat.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
